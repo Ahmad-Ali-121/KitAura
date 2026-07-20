@@ -4,8 +4,8 @@
 
 **AI-powered CV, cover letter, and proposal builder — built in Flutter Web.**
 
-[![Live](https://img.shields.io/badge/live-app--kitaura.winibex.com-831843)](https://app-kitaura.winibex.com)
-[![Marketing](https://img.shields.io/badge/marketing-kitaura.winibex.com-CF4D6F)](https://kitaura.winibex.com)
+[![Live](https://img.shields.io/badge/live-app--User-Version-831843)]
+[![Marketing](https://img.shields.io/badge/marketing-CF4D6F)]
 [![Flutter](https://img.shields.io/badge/Flutter-3.41.9-0F172A)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.11.5-0F172A)](https://dart.dev)
 
