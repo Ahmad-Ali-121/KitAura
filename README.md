@@ -20,7 +20,7 @@ KitAura is a free document-building SaaS that lets anyone create professional CV
 - **Free-tier at launch** — Stripe deferred; admin can manually grant Pro
 - **Guest mode** — anonymous users can browse, build, and export a CV before signing up (Firebase Anonymous Auth)
 - **AI-powered** — Claude Sonnet 4.6 for content, Claude Haiku 4.5 for proofreading
-- **Live in production** at [app-kitaura.winibex.com](https://app-kitaura.winibex.com)
+- **Live in production**
 
 ## Features
 
@@ -231,10 +231,11 @@ Requires `.htaccess` on the Hostinger side redirecting all routes to `index.html
 - Arial — default CV text
 - Sekuya — display/decorative
 
-## Related Projects
+## Related
 
-- **[kitaura_admin](https://github.com/Winibex/kitaura_admin)** — separate Flutter Web admin panel sharing this Firebase backend
-- **kitaura.winibex.com** — WordPress marketing site (separate repo)
+- [KitAura Admin](https://github.com/Ahmad-Ali-121/kitaura-admin) — Flutter Web admin panel sharing this Firebase backend
+
+---
 
 ## License
 
