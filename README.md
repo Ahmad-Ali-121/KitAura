@@ -4,10 +4,10 @@
 
 **AI-powered CV, cover letter, and proposal builder — built in Flutter Web.**
 
-[![Live](https://img.shields.io/badge/live-app--User-Version-831843)]
-[![Marketing](https://img.shields.io/badge/marketing-CF4D6F)]
-[![Flutter](https://img.shields.io/badge/Flutter-3.41.9-0F172A)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.11.5-0F172A)](https://dart.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-3.41.9-02569B?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.11.5-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-Firestore%20%7C%20Auth%20%7C%20Functions-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Riverpod](https://img.shields.io/badge/Riverpod-2.x-00B0FF?style=flat&logoColor=white)](https://riverpod.dev)
 
 </div>
 
